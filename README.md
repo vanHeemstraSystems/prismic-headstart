@@ -9,6 +9,8 @@ Slicemachine isn’t the standard component library that you may have seen in th
 
 ***Prismic*** is a **Headless CMS** that offers unlimited custom types, API calls, and a bunch of other great things. You should really check it out.
 
+[Building websites with components | January Prismic Product Meet-up](https://www.youtube.com/watch?v=fiOwHYFkUz0)
+
 The problem is, API-based CMS’s have created a gap between the components and the data that they require and we wanted to bridge that gap.
 
 We took our first step on that journey when we created our Slices feature.
