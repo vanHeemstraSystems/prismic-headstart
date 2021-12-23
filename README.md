@@ -40,4 +40,4 @@ There are two parts to building pages with components.
 
 This way, all that you have to do is use the visual editor (***Prismic interface***) to define the different Slices - every Slice containing the props that are passed to a given component - and the SliceZone will automatically mirror these Slices by calling the corresponding components in your frontend code.
 
-
+[Video](https://youtu.be/PO58pGIkDg0)
