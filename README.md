@@ -37,3 +37,7 @@ There are two parts to building pages with components.
 ## 200 - Building pages using these components
 
 **SliceZone** is a component that you drop into your page and it will take care of calling the necessary components and provide them with their content props to build the page.
+
+This way, all that you have to do is use the visual editor (***Prismic interface***) to define the different Slices - every Slice containing the props that are passed to a given component - and the SliceZone will automatically mirror these Slices by calling the corresponding components in your frontend code.
+
+
