@@ -15,3 +15,7 @@ We took our first step on that journey when we created our Slices feature.
 
 With Slices, you can break your page content into JSON components that correspond to your frontend components. Each Slice represents the JSON model (content) for a given component.
 
+Slices are one of our coolest features and a big reason why so many people are choosing to use Prismic.
+
+But we wanted to find a way to take Slices to the next level and to allow developers to adopt a totally component-based approach to how they build websites and create pages. And that’s why we’ve partnered with Netlify and Nuxt to bring ***Slice Machine*** to life.
+
