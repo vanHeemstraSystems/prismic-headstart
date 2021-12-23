@@ -31,3 +31,9 @@ There are two parts to building pages with components.
 2. The second part is about building pages using these components.
 
 
+## 100 - Building and deploying page sections (components)
+
+
+## 200 - Building pages using these components
+
+**SliceZone** is a component that you drop into your page and it will take care of calling the necessary components and provide them with their content props to build the page.
