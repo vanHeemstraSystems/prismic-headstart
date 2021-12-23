@@ -19,3 +19,15 @@ Slices are one of our coolest features and a big reason why so many people are c
 
 But we wanted to find a way to take Slices to the next level and to allow developers to adopt a totally component-based approach to how they build websites and create pages. And that’s why we’ve partnered with Netlify and Nuxt to bring ***Slice Machine*** to life.
 
+# 100 - Introduction
+
+**Slice Machine — Build website sections and combine them into pages***
+
+In it’s most basic form, **Slice Machine** is an open-source CLI and a component library. And just that should be enough to pique your interest.
+
+There are two parts to building pages with components. 
+
+1. The first part is about building and deploying page sections (components). 
+2. The second part is about building pages using these components.
+
+
